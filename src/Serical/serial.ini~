@@ -1,0 +1,17 @@
+[Serial1] 
+PortName=/dev/ttyO3
+Baudrate=57600
+StopBite=1
+Parity=0
+
+[Serial2] 
+PortName=/dev/ttyO2
+Baudrate=115200
+StopBite=1
+Parity=0
+
+[Serial3] 
+PortName=/dev/ttyO3
+Baudrate=19200
+StopBite=1
+Parity=0
